@@ -1,0 +1,13 @@
+</br>本地包含(include $file;)</br>php://input 驱动器 C 中的卷是 WINDOWS
+ 卷的序列号是 D8EE-221B
+
+ C:\phpStudy\PHPTutorial\WWW\bugbug\shu\wenjianbaohan 的目录
+
+2018/11/17  16:35    <DIR>          .
+2018/11/17  16:35    <DIR>          ..
+2017/11/20  13:02               139 12.php
+2017/11/20  12:55               298 jdbh.php
+2017/11/20  22:18               195 wjbh.php
+2017/11/20  22:56               406 ycbh.php
+               4 个文件          1,038 字节
+               2 个目录 142,448,889,856 可用字节
